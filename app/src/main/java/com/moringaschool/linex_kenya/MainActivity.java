@@ -16,6 +16,9 @@ public class MainActivity extends AppCompatActivity {
     public static final String TAG = MainActivity.class.getSimpleName();
     private Button mGetStartedButton;
     private EditText mcourseEditText;
+//    @BindView(R.id.getStartedButton) Button mFindRestaurantsButton;
+//    @BindView(R.id.courseEditText) EditText mLocationEditText;
+//    @BindView(R.id.appNameTextView) TextView mAppNameTextView;
 
 
     @Override
