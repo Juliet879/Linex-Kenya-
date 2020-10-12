@@ -1,5 +1,5 @@
-# Linex-Kenya-
-Linex-Kenya is a mobile application that provides platform for an online market where people buy and sell goods,this may include brand new and also second hand items
+# Linex-Kenya
+Linex-Kenya is a mobile application that provides platform for an online buyers and sellers to market their products,this may include brand new and also second hand items.
 
 # Technologies Used
 - Java
