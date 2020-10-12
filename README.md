@@ -36,7 +36,7 @@ Espresso : https://developer.android.com/training/testing/espresso
 There are no known bugs currently. The page works as expected.
 
 # Find Me
-[Other Projects](# https://github.com/Juliet879)
+[Other Projects]( https://github.com/Juliet879)
 
 # By
 Juliet Kemunto Gisemba
@@ -59,5 +59,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-9:13
-tengeneza file ya LICENSE kama vile ulitengeneza README.md the ueke kwa license
+
