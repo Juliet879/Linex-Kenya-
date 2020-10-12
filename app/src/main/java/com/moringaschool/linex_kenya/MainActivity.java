@@ -30,17 +30,17 @@ public class MainActivity extends AppCompatActivity {
         mGetStartedButton = (Button) findViewById(R.id.getStartedButton);
 
 
-//        mGetStartedButton.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View v) {
-//                String course = mcourseEditText.getText().toString();
-//                Intent intent = new Intent(MainActivity.this, RegisterActivity.class);
-//                intent.putExtra("course", course);
-//                startActivity(intent);
-//
-//            }
-//
-//        });
+        mGetStartedButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String course = mcourseEditText.getText().toString();
+                Intent intent = new Intent(MainActivity.this, RegisterActivity.class);
+                intent.putExtra("course", course);
+                startActivity(intent);
+
+            }
+
+        });
     }
 }
 
