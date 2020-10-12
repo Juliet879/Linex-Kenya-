@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     private Button mGetStartedButton;
     private EditText mcourseEditText;
 //    @BindView(R.id.getStartedButton) Button mFindRestaurantsButton;
-//    @BindView(R.id.courseEditText) EditText mLocationEditText;
+//    @BindView(R.id.courseEditText) EditText mcourseEditText;
 //    @BindView(R.id.appNameTextView) TextView mAppNameTextView;
 
 
@@ -28,14 +28,20 @@ public class MainActivity extends AppCompatActivity {
 
         mcourseEditText = (EditText) findViewById(R.id.courseEditText);
         mGetStartedButton = (Button) findViewById(R.id.getStartedButton);
+
+
         mGetStartedButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 String course = mcourseEditText.getText().toString();
-                Intent intent = new Intent(MainActivity.this, CommodityActivity.class);
+                Intent intent = new Intent(MainActivity.this, RegisterActivity.class);
                 intent.putExtra("course", course);
                 startActivity(intent);
+
             }
+//                Intent intent = new Intent(MainActivity.this, CommodityActivity.class);
+//                startActivity(intent);
+//            }
         });
     }
 }
