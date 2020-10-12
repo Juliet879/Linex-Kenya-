@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
     public static final String TAG = MainActivity.class.getSimpleName();
     private Button mGetStartedButton;
     private EditText mcourseEditText;
-//    @BindView(R.id.getStartedButton) Button mFindRestaurantsButton;
+//    @BindView(R.id.getStartedButton) Button mFinButton;
 //    @BindView(R.id.courseEditText) EditText mcourseEditText;
 //    @BindView(R.id.appNameTextView) TextView mAppNameTextView;
 
@@ -39,10 +39,9 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
 
             }
-//                Intent intent = new Intent(MainActivity.this, CommodityActivity.class);
-//                startActivity(intent);
-//            }
+
         });
     }
 }
+
 

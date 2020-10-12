@@ -52,7 +52,7 @@
         tools:text="Email" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/accountButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#B9FF3D00"
