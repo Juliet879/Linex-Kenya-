@@ -2,11 +2,11 @@
 Linex-Kenya is a mobile application that provides platform for an online market where people buy and sell goods,this may include brand new and also second hand items
 
 #Technologies Used
-Java
-XML
-Android-studio IDE
-Gradle
-Markdown
+-Java
+-XML
+-Android-studio IDE
+-Gradle
+-Markdown
 
 #SetUp/Installation Process
 Install Android Studio 2.2.*
