@@ -36,7 +36,7 @@ Espresso : https://developer.android.com/training/testing/espresso
 There are no known bugs currently. The page works as expected.
 
 # Find Me
-[Other Projects]( https://github.com/Juliet879)
+[Other Projects](# https://github.com/Juliet879)
 
 # By
 Juliet Kemunto Gisemba
