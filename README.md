@@ -1,14 +1,14 @@
 # Linex-Kenya-
 Linex-Kenya is a mobile application that provides platform for an online market where people buy and sell goods,this may include brand new and also second hand items
 
-#Technologies Used
--Java
--XML
--Android-studio IDE
--Gradle
--Markdown
+# Technologies Used
+- Java
+- XML
+- Android-studio IDE
+- Gradle
+- Markdown
 
-#SetUp/Installation Process
+# SetUp/Installation Process
 Install Android Studio 2.2.*
 
 Install Eclipse, Maven and Java
@@ -26,23 +26,23 @@ User is able to find friend on the same geolocation.
 [Developer Details]
 
 
-#Installing Tools
+# Installing Tools
 Android Studio : https://www.googleadservices.com/pagead
 Maven : https://maven.apache.org/install.html
 Robolectric : http://robolectric.org/getting-started/
 Espresso : https://developer.android.com/training/testing/espresso
 
-#Known Bugs
+# Known Bugs
 There are no known bugs currently. The page works as expected.
 
-#Find Me
+# Find Me
 [Other Projects](# https://github.com/Juliet879)
 
-#By
+# By
 Juliet Kemunto Gisemba
 
 
-#LICENSE
+# LICENSE
 Copyright (c) 2020 Juliet Gisemba Kemunto
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
