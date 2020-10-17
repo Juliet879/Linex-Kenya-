@@ -47,7 +47,7 @@
         app:layout_constraintVertical_bias="0.024" />
 
     <TextView
-        android:id="@+id/textView6"
+        android:id="@+id/appNameTextView"
         android:layout_width="312dp"
         android:layout_height="113dp"
         android:text="Buy and Sell Today at the Best Prices !"
@@ -75,5 +75,29 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.455"
         app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView13"
+        android:layout_width="137dp"
+        android:layout_height="89dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/shoes" />
+
+    <ImageView
+        android:id="@+id/imageView14"
+        android:layout_width="61dp"
+        android:layout_height="91dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.748"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/shopcart" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
